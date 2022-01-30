@@ -1,8 +1,6 @@
 ## Audio Computing Mini Projects
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gizemt/AudioProcessing/blob/master/Lab0/Lab0.ipynb)
-
-- [Basic Sound Processing](https://github.com/gizemt/AudioProcessing/tree/master/Lab0)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gizemt/AudioProcessing/blob/master/Lab0/Lab_0.ipynb) [Basic Sound Processing](https://github.com/gizemt/AudioProcessing/tree/master/Lab0)
 - [Short-time Fourier Transform](https://github.com/gizemt/AudioProcessing/tree/master/Lab1)
 - [Filter Design](https://github.com/gizemt/AudioProcessing/tree/master/Lab2)
 - [Reverberant Room Simulation](https://github.com/gizemt/AudioProcessing/tree/master/Lab3)
