@@ -1,7 +1,4 @@
-## Audio Computing Mini Projects
-
-Mini projects as part of Audio Computing class by Paris Smaragdis at UIUC.
-
+## Audio Computing Projects
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gizemt/AudioProcessing/blob/master/Lab0/Lab_0.ipynb) 
 [Basic Sound Processing](https://github.com/gizemt/AudioProcessing/tree/master/Lab0)
@@ -35,3 +32,5 @@ Mini projects as part of Audio Computing class by Paris Smaragdis at UIUC.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gizemt/AudioProcessing/blob/master/Lab10/Lab_10.ipynb)
 [Keyword Recognition](https://github.com/gizemt/AudioProcessing/tree/master/Lab10)
+
+Audio Computing Class by Paris Smaragdis at UIUC.
