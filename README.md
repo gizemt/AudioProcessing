@@ -1,4 +1,4 @@
-## Audio Computing Projects
+## Audio Processing Projects
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gizemt/AudioProcessing/blob/master/Lab0/Lab_0.ipynb) 
 [Basic Sound Processing](https://colab.research.google.com/github/gizemt/AudioProcessing/blob/master/Lab0/Lab_0.ipynb)
